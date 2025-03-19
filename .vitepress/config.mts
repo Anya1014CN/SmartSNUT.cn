@@ -19,6 +19,18 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    darkModeSwitchLabel: '深色模式',
+    lightModeSwitchTitle: '切换到浅色模式',
+    darkModeSwitchTitle: '切换到深色模式',
+    sidebarMenuLabel: '菜单',
+    returnToTopLabel: '回到顶部',
+    docFooter: {
+      prev: '上一篇',
+      next: '下一篇'
+    },
+    lastUpdated:{
+      text: '本文更新于'
+    },
     nav: [
       { text: '首页', link: '/' },
       { text: '功能介绍', link: '/Functions' },
