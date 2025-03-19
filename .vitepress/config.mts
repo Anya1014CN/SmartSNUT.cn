@@ -23,7 +23,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '功能介绍', link: '/Functions' },
       { text: '立即下载', link: '/Downloads' },
-      { text: '更新日志', link: '/Changelog' },
+      { text: '更新日志', link: '/Docs/Changelog' },
       { text: '用户手册', link: '/Docs/UserManual' },
     ],
 
