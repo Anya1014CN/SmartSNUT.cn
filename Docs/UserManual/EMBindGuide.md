@@ -3,7 +3,7 @@
 ---
 
 ::: warning 注意
-智慧陕理目前只支持学生电费账号绑定，暂不支持家属商业电费账号绑定
+智慧陕理工目前只支持学生电费账号绑定，暂不支持家属商业电费账号绑定
 :::
 
 1.首先，您需要关注 “陕西理工大学后勤保障部” 微信公众号
@@ -30,6 +30,6 @@
 
 <center><img src="/images/Docs/UserManual/EMBindGuide/7.jpg">（图七）您的 openId</img></center>
 
-6.回到智慧陕理，打开电费账号绑定页面，填入刚才获取的 openId，点击绑定即可成功绑定
+6.回到智慧陕理工，打开电费账号绑定页面，填入刚才获取的 openId，点击绑定即可成功绑定
 <center><img src="/images/Docs/UserManual/EMBindGuide/8.jpg">（图八）填写您的 openId</img></center>
 <center><img src="/images/Docs/UserManual/EMBindGuide/9.jpg">（图九）电费账号绑定成功</img></center>
