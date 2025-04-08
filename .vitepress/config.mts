@@ -56,7 +56,6 @@ export default defineConfig({
               { text: '学籍信息', link: '/Docs/UserManual/Functions/JiaoWu/StdDetail' },
               { text: '我的考试', link: '/Docs/UserManual/Functions/JiaoWu/StdExam' },
               { text: '我的成绩', link: '/Docs/UserManual/Functions/JiaoWu/StdGrades' },
-              { text: '绩点计算器', link: '/Docs/UserManual/Functions/JiaoWu/GPACalculator' },
             ]
           },
           {

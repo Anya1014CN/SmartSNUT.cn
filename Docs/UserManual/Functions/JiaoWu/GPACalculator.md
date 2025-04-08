@@ -1,5 +1,11 @@
 # 绩点计算器
 
+::: warning 注意
+
+”绩点计算器” 功能已经在 1.8.16 版本被移除，如需查看绩点，请[前往 “我的成绩” 页面](./StdGrades.md)
+
+:::
+
 ---
 
 <center><img src="/images/Docs/Functions/JiaoWu/GPACalculator/1.png">（图一）“绩点计算器” 页面</img></center>
