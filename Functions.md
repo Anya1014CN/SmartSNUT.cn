@@ -2,11 +2,11 @@
 layout: home
 
 hero:
-  name: "智慧陕理工 - 功能介绍"
+  name: "智慧陕理 - 功能介绍"
   tagline: 小巧、快捷、无广告的 陕西理工大学 APP
   image:
     src: /images/logo.png
-    alt: 智慧陕理工
+    alt: 智慧陕理
   actions:
     - theme: alt
       text: 首页

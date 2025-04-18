@@ -14,8 +14,8 @@ export default defineConfig({
       `LA.init({id:"Kl6zy40vYScdryDY",ck:"Kl6zy40vYScdryDY"})`
     ]
   ],
-  title: "智慧陕理工 - 官网",
-  description: "智慧陕理工 APP 官方网站",
+  title: "智慧陕理 - 官网",
+  description: "智慧陕理 APP 官方网站",
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -83,8 +83,8 @@ export default defineConfig({
     ],
     
     footer: {
-      message: '智慧陕理工并非陕西理工大学官方 APP，智慧陕理工 APP 与陕西理工大学无任何从属关系，智慧陕理工从未有意标榜或冒充是陕西理工大学官方 APP',
-      copyright: 'Copyright © 2025-智慧陕理工 <a href="https://beian.miit.gov.cn/">陕ICP备2024023952号-2</a>'
+      message: '智慧陕理并非陕西理工大学官方 APP，智慧陕理 APP 与陕西理工大学无任何从属关系，智慧陕理从未有意标榜或冒充是陕西理工大学官方 APP',
+      copyright: 'Copyright © 2025-智慧陕理 <a href="https://beian.miit.gov.cn/">陕ICP备2024023952号-2</a>'
     }
   }
 })
