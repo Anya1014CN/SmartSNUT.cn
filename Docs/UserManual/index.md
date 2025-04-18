@@ -17,11 +17,10 @@
    - [学籍信息](./Functions/JiaoWu/StdDetail)
    - [我的考试](./Functions/JiaoWu/StdExam)
    - [我的成绩](./Functions/JiaoWu/StdGrades)
-   - [绩点计算器](./Functions/JiaoWu/GPACalculator)
 
  - 后勤功能
    - [网费查询](./Functions/HouQin/SchoolNetworkQuery)
-   - [点诶查询](./Functions/HouQin/ElectricMeterQuery)
+   - [电费查询](./Functions/HouQin/ElectricMeterQuery)
 
  - 外部链接
    - [图书检索](./Functions/ExternalLink/Library)
