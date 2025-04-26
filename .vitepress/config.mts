@@ -56,6 +56,7 @@ export default defineConfig({
               { text: '学籍信息', link: '/Docs/UserManual/Functions/JiaoWu/StdDetail' },
               { text: '我的考试', link: '/Docs/UserManual/Functions/JiaoWu/StdExam' },
               { text: '我的成绩', link: '/Docs/UserManual/Functions/JiaoWu/StdGrades' },
+              { text: '空闲教室查询', link: '/Docs/UserManual/Functions/JiaoWu/publicFree' },
             ]
           },
           {
