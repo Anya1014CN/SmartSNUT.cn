@@ -26,6 +26,10 @@ hero:
 
 features:
   - icon:
+      src: /images/Downloads/wechat.png
+    title: 微信小程序版
+    details: '<br><br><a href="./Docs/WeChat/"><font style="font-size: 5; color: red">点击前往</font></a>'
+  - icon:
       src: /images/Downloads/android.png
     title: 下载 Android 版 （1.11.25）
     details: '发布日期：2025-04-18<br><br>建议您在 Android 8.0（64位）及其以上版本的设备上使用 Android 版智慧陕理，目前市面上 90% 的设备均符合要求<br><br><a href="http://apis.smartsnut.cn/Android/SelfUpdate/SmartSNUT_Android_1.11.25.apk"><font style="font-size: 5; color: red">点击下载</font></a>'
