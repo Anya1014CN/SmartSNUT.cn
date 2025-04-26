@@ -27,8 +27,8 @@ hero:
 features:
   - icon:
       src: /images/Downloads/wechat.png
-    title: 微信小程序版
-    details: '<br><br><a href="./Docs/WeChat/"><font style="font-size: 5; color: red">点击前往</font></a>'
+    title: 微信小程序版 （1.0.0）
+    details: '发布日期：2025-04-26<br><br>小程序版仍处于内测阶段，可能存在卡顿以及其他稳定性问题，若您在使用过程中遇到任何问题，欢迎前往 “智慧陕理” 公众号反馈<br><br><a href="./Docs/WeChat/"><font style="font-size: 5; color: red">点击前往</font></a>'
   - icon:
       src: /images/Downloads/android.png
     title: 下载 Android 版 （1.11.25）
