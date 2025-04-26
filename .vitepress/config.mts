@@ -67,12 +67,9 @@ export default defineConfig({
             ]
           },
           {
-            text: ' - 外部链接',
+            text: ' - 学工系统',
             items: [
-              { text: '图书检索', link: '/Docs/UserManual/Functions/ExternalLink/Library' },
-              { text: '人脸信息采集系统', link: '/Docs/UserManual/Functions/ExternalLink/Face' },
-              { text: 'WebVPN', link: '/Docs/UserManual/Functions/ExternalLink/WebVPN' },
-              { text: '一网通办', link: '/Docs/UserManual/Functions/ExternalLink/NewHall' },
+              { text: '班级通讯录', link: '/Docs/UserManual/Functions/XueGong/ClassContacts' },
             ]
           },
         ]
